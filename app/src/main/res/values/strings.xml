@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">ListView</string>
-    <string name="label_equipes">Equipes F1</string>
     <string name="label_marcas">Marcas Carros</string>
+    <string name="label_select">Selecionado:</string>
 </resources>
